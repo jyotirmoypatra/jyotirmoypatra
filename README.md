@@ -1,4 +1,4 @@
-
+![MasterHead](https://i.ibb.co/0yZyMSj/Neon-Green-Futuristic-Twitch-Banner.png)
 <h1 align="center">Hi 👋, I'm Jyotirmoy Patra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
