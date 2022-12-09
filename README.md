@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/hKf48s8/Picsart-22-12-09-11-00-51-173.jpg)
+![MasterHead](https://i.ibb.co/d6xF4Rp/Picsart-22-12-09-11-08-58-943.jpg)
 <h1 align="center">Hi 👋, I'm Jyotirmoy Patra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
