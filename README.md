@@ -1,5 +1,5 @@
 
-<div class="main" style="text-align:center;"><img src="https://i.ibb.co/d6xF4Rp/Picsart-22-12-09-11-08-58-943.jpg" alt="Paris" style="margin-left:auto;margin-right:auto;" class="center"></div>
+<img src="https://i.ibb.co/d6xF4Rp/Picsart-22-12-09-11-08-58-943.jpg" alt="Paris" style="width:1080px" class="center">
 <h1 align="center">Hi 👋, I'm Jyotirmoy Patra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
