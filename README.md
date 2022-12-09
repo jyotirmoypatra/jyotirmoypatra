@@ -1,4 +1,5 @@
-![MasterHead](https://i.ibb.co/d6xF4Rp/Picsart-22-12-09-11-08-58-943.jpg)
+![MasterHead](<img src="[paris.jpg](https://i.ibb.co/d6xF4Rp/Picsart-22-12-09-11-08-58-943.jpg)" alt="Paris" class="center">)
+
 <h1 align="center">Hi 👋, I'm Jyotirmoy Patra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
