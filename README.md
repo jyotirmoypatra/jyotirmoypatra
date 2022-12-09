@@ -1,5 +1,5 @@
-![MasterHead](<img src="[paris.jpg](https://i.ibb.co/d6xF4Rp/Picsart-22-12-09-11-08-58-943.jpg)" alt="Paris" class="center">)
 
+<div style="text-align:center;"><img src="https://i.ibb.co/d6xF4Rp/Picsart-22-12-09-11-08-58-943.jpg" alt="Paris" style="margin-left:auto;margin-right:auto;" class="center"></div>
 <h1 align="center">Hi 👋, I'm Jyotirmoy Patra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
